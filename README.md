@@ -1,6 +1,6 @@
 # TDD Máquina de Café
 
-![CI](https://github.com/TU_USUARIO/tdd-maquina-cafe/actions/workflows/ci-pipeline.yml/badge.svg)
+![CI](https://github.com/20242397/tdd-maquina-cafe/actions/workflows/ci-pipeline.yml/badge.svg)
 
 Máquina dispensadora de café desarrollada con Test Driven Development (Rojo, Verde, Refactor) en Java y JUnit 4.
 
