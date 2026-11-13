@@ -1,0 +1,9 @@
+# Compilados
+target/
+out/
+*.class
+
+# IntelliJ / editores
+.idea/
+*.iml
+.vscode/
